@@ -5,7 +5,6 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-publicu class Main {
 
     private static List<Vehicle> availableVehicles = new ArrayList<>();
     private static List<RentalTransaction> rentalTransactions = new ArrayList<>();

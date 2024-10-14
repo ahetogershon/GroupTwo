@@ -6,9 +6,6 @@ public class RentalTransaction {
     private int daysRented;
 
     public RentalTransaction(Customer customer, Vehicle vehicle, int daysRented) {
-        thicle;
-        this.daysRented = his.customer = customer;
-        this.vehicle = vedaysRented;
         vehicle.setAvailable(false);  // Mark the vehicle as rented
     }
 
