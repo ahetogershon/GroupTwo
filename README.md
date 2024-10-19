@@ -2,14 +2,16 @@
 1.  *Emmanuel Kwame Adjei*(BSCIT/GA/14/22/0018)
 2.  *Audrey peprah*(BSCIT/GA/14/23/0012)
 3.  *Aaron Bryon Akpalu*(BSCIT/GA/14/23/0019)
-4.  *Jemuel Venunye Lawson*(BSCIT/GA/14/22/0008)
+4.  *Jemuel Venunye Lawson*(BSCIT/GA/14/22/0025)
 5.  *Gershon Aheto*(BSCIT/GA/14/22/0008)
-# PROJECT:===Vehicle Rental System==
+# PROJECT:
+===Vehicle Rental System==
 # Table of Contents
 1.Overview
 2.Features
 3.Technologies
 4.Usage
+5.Class Structure 
 
 
 # overview
@@ -48,7 +50,7 @@ The system will display a list of available vehicles. Select a vehicle, specify 
 Returning a Vehicle:
 View all ongoing rentals and return a vehicle by selecting it from the list. The system will update the availability of the vehicle.
 
-Class Structure:
+# Class Structure:
 Vehicle (abstract): Represents a generic vehicle.
 Car, Bike, Truck: Subclasses of Vehicle with specific rental cost calculation.
 
